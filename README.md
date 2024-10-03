@@ -1,6 +1,6 @@
 # Crime Data Analysis in Toronto
 
-**Overview**
+## **Overview**
 
 This project involves analyzing crime data from Toronto between the years 2018 and 2023. The dataset consists of various categories of crime, including Homicide, Assault, Robbery, and Auto Theft. Using Python and SQL, I processed and visualized the data to explore trends, patterns, and geographical distribution of crimes across different neighborhoods in Toronto.
 
@@ -24,7 +24,7 @@ This project involves analyzing crime data from Toronto between the years 2018 a
   ![image](https://github.com/user-attachments/assets/bf8e05f0-abc4-483a-bbb8-325249090494)
 
 
-  4. **Crime Distribution by Day of the Week:**
+  3. **Crime Distribution by Day of the Week:**
   A count plot showing the number of crimes that occurred on different days of the week, giving insights into weekly crime patterns.
 
   ![image](https://github.com/user-attachments/assets/9b205f31-2878-4f53-97e9-66a9ff45d840)
