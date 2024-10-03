@@ -16,7 +16,9 @@ This project involves analyzing crime data from Toronto between the years 2018 a
   1. **Heatmaps of Crime Categories:**
   Visual representations of different crime categories like Homicide, Assault, Robbery, and Auto Theft are plotted using Folium. Heatmaps depict high-density crime areas across Toronto.
 
-  ![image](https://github.com/user-attachments/assets/72159127-b57b-48fd-85c1-6bf449eff943)  ![image](https://github.com/user-attachments/assets/54e2a2d2-d709-4db1-9ce9-2287099870dc)
+  ![image](https://github.com/user-attachments/assets/9901ab51-d0a8-4a73-96bb-5dbb8f73b0f1)
+
+  ![image](https://github.com/user-attachments/assets/f499d4f6-872c-4720-a75c-8a2a37bc92dc)
 
   2. **Distribution of MCI Categories:**
   A pie chart representing the distribution of Major Crime Indicators (MCI). This visual helps in understanding the prevalence of various crime categories (Homicide, Assault, Robbery, Auto Theft, etc.) in the dataset.
