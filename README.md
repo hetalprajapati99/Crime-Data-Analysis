@@ -13,31 +13,30 @@ This project involves analyzing crime data from Toronto between the years 2018 a
 
 ### **Key Visualizations**
 
-  1. **Heatmaps of Crime Categories:**
-  Visual representations of different crime categories like Homicide, Assault, Robbery, and Auto Theft are plotted using Folium. Heatmaps depict high-density crime areas across Toronto.
+1. **Heatmaps of Crime Categories:**
+Visual representations of different crime categories like Homicide, Assault, Robbery, and Auto Theft are plotted using Folium. Heatmaps depict high-density crime areas across Toronto.
 
   ![image](https://github.com/user-attachments/assets/9901ab51-d0a8-4a73-96bb-5dbb8f73b0f1)
 
   ![image](https://github.com/user-attachments/assets/f499d4f6-872c-4720-a75c-8a2a37bc92dc)
 
-  2. **Distribution of MCI Categories:**
-  A pie chart representing the distribution of Major Crime Indicators (MCI). This visual helps in understanding the prevalence of various crime categories (Homicide, Assault, Robbery, Auto Theft, etc.) in the dataset.
+2. **Distribution of MCI Categories:**
+A pie chart representing the distribution of Major Crime Indicators (MCI). This visual helps in understanding the prevalence of various crime categories (Homicide, Assault, Robbery, Auto Theft, etc.) in the dataset.
 
   ![image](https://github.com/user-attachments/assets/bf8e05f0-abc4-483a-bbb8-325249090494)
 
-
-  3. **Crime Distribution by Day of the Week:**
-  A count plot showing the number of crimes that occurred on different days of the week, giving insights into weekly crime patterns.
+3. **Crime Distribution by Day of the Week:**
+A count plot showing the number of crimes that occurred on different days of the week, giving insights into weekly crime patterns.
 
   ![image](https://github.com/user-attachments/assets/9b205f31-2878-4f53-97e9-66a9ff45d840)
 
-  4. **Trends in Crime Over the Years:**
-  A line plot depicting trends in crime across years, illustrating how the occurrence of various crimes has changed over time.
+4. **Trends in Crime Over the Years:**
+A line plot depicting trends in crime across years, illustrating how the occurrence of various crimes has changed over time.
 
   ![image](https://github.com/user-attachments/assets/839c4e91-0dd9-4088-a20a-40bf07adf0ea)
 
-  5. **Crimes by Neighborhood:**
-  A bar plot highlighting the top 10 neighborhoods with the highest crime counts, providing a clear understanding of which areas experience more criminal activities.
+5. **Crimes by Neighborhood:**
+A bar plot highlighting the top 10 neighborhoods with the highest crime counts, providing a clear understanding of which areas experience more criminal activities.
 
   ![image](https://github.com/user-attachments/assets/ac3e7006-6485-46bf-afaa-117deaab0aa5)
 
