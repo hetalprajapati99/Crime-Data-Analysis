@@ -5,11 +5,11 @@
 This project involves analyzing crime data from Toronto between the years 2018 and 2023. The dataset consists of various categories of crime, including Homicide, Assault, Robbery, and Auto Theft. Using Python and SQL, I processed and visualized the data to explore trends, patterns, and geographical distribution of crimes across different neighborhoods in Toronto.
 
 **Tools and Technologies**
-  - Python: Used for data processing, cleaning, and visualizations.
-  - Pandas: For efficient handling and analysis of large datasets.
-  - Folium: To generate interactive maps and crime heatmaps across Toronto.
-  - SQL: Data filtering and extraction.
-  - Seaborn & Matplotlib: For creating insightful visualizations and trends analysis.
+  - **Python:** Used for data processing, cleaning, and visualizations.
+  - **Pandas:** For efficient handling and analysis of large datasets.
+  - **Folium:** To generate interactive maps and crime heatmaps across Toronto.
+  - **SQL:** Data filtering and extraction.
+  - **Seaborn & Matplotlib:** For creating insightful visualizations and trends analysis.
 
 **Key Visualizations**
 
