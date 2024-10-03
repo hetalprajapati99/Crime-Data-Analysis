@@ -21,11 +21,20 @@ Heatmaps of Crime Categories: Visual representations of different crime categori
 
 Crime Distribution by Day of the Week: A count plot showing the number of crimes that occurred on different days of the week, giving insights into weekly crime patterns.
 
+![image](https://github.com/user-attachments/assets/9b205f31-2878-4f53-97e9-66a9ff45d840)
+
+
 
 Trends in Crime Over the Years: A line plot depicting trends in crime across years, illustrating how the occurrence of various crimes has changed over time.
 
+![image](https://github.com/user-attachments/assets/839c4e91-0dd9-4088-a20a-40bf07adf0ea)
+
+
 
 Crimes by Neighborhood: A bar plot highlighting the top 10 neighborhoods with the highest crime counts, providing a clear understanding of which areas experience more criminal activities.
+
+![image](https://github.com/user-attachments/assets/ac3e7006-6485-46bf-afaa-117deaab0aa5)
+
 
 
 **Data Preprocessing and Imputation**
