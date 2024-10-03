@@ -13,9 +13,7 @@ This project involves analyzing crime data from Toronto between the years 2018 a
 **Key Visualizations**
 Heatmaps of Crime Categories: Visual representations of different crime categories like Homicide, Assault, Robbery, and Auto Theft are plotted using Folium. Heatmaps depict high-density crime areas across Toronto.
 
-![image](https://github.com/user-attachments/assets/bb784e2b-8077-4193-9c5a-b5c257d66969)
-
-![image](https://github.com/user-attachments/assets/81027cef-12af-4aa3-aeb5-56027bdd5660)
+![image](https://github.com/user-attachments/assets/bb784e2b-8077-4193-9c5a-b5c257d66969) ![image](https://github.com/user-attachments/assets/81027cef-12af-4aa3-aeb5-56027bdd5660)
 
 
 
