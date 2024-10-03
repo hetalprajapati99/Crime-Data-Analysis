@@ -15,6 +15,8 @@ Heatmaps of Crime Categories: Visual representations of different crime categori
 
 ![image](https://github.com/user-attachments/assets/bb784e2b-8077-4193-9c5a-b5c257d66969) ![image](https://github.com/user-attachments/assets/81027cef-12af-4aa3-aeb5-56027bdd5660)
 
+![image](https://github.com/user-attachments/assets/72159127-b57b-48fd-85c1-6bf449eff943)  ![image](https://github.com/user-attachments/assets/54e2a2d2-d709-4db1-9ce9-2287099870dc)
+
 
 
 Crime Distribution by Day of the Week: A count plot showing the number of crimes that occurred on different days of the week, giving insights into weekly crime patterns.
