@@ -1,6 +1,7 @@
 # Crime Data Analysis in Toronto
 
 **Overview**
+
 This project involves analyzing crime data from Toronto between the years 2018 and 2023. The dataset consists of various categories of crime, including Homicide, Assault, Robbery, and Auto Theft. Using Python and SQL, I processed and visualized the data to explore trends, patterns, and geographical distribution of crimes across different neighborhoods in Toronto.
 
 **Tools and Technologies**
@@ -15,7 +16,7 @@ This project involves analyzing crime data from Toronto between the years 2018 a
   1. **Heatmaps of Crime Categories:**
   Visual representations of different crime categories like Homicide, Assault, Robbery, and Auto Theft are plotted using Folium. Heatmaps depict high-density crime areas across Toronto.
 
-  ![image](https://github.com/user-attachments/assets/72159127-b57b-48fd-85c1-6bf449eff943)  ![image](https://github.com/user-attachments/assets/54e2a2d2-d709-4db1-9ce9-2287099870dc)
+   ![image](https://github.com/user-attachments/assets/72159127-b57b-48fd-85c1-6bf449eff943)  ![image](https://github.com/user-attachments/assets/54e2a2d2-d709-4db1-9ce9-2287099870dc)
 
   2. **Distribution of MCI Categories:**
   A pie chart representing the distribution of Major Crime Indicators (MCI). This visual helps in understanding the prevalence of various crime categories (Homicide, Assault, Robbery, Auto Theft, etc.) in the dataset.
